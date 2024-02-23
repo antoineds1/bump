@@ -1,0 +1,11 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" role="img" fill="rgb(245, 245, 245)" color="rgb(245, 245, 245)" class="_ab6-" aria-label="Reels">
+
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_5" stroke-width="2px" stroke-linejoin="round" stroke-linecap="round" stroke="#F5F5F5" fill="none" d="m1.83334,12.001l0,3.449c0,2.849 0.698,4.006 1.606,4.945c0.94,0.908 2.098,1.607 4.946,1.607l6.896,0c2.848,0 4.006,-0.699 4.946,-1.607c0.908,-0.939 1.606,-2.096 1.606,-4.945l0,-6.898c0,-2.848 -0.698,-4.006 -1.606,-4.945c-0.94,-0.908 -2.098,-1.607 -4.946,-1.607l-6.896,0c-2.848,0 -4.006,0.699 -4.946,1.607c-0.908,0.939 -1.606,2.097 -1.606,4.945l0,3.449z"/>
+  <circle cx="12" cy="13.83331" fill="none" r="3.66102" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2px" id="svg_3" stroke="#F5F5F5"/>
+  <line id="svg_1" y2="7.002" y1="7.002" x2="21.95" x1="2.049" stroke-width="2px" stroke-linejoin="round" stroke="#F5F5F5" fill="none"/>
+  <line id="svg_2" y2="7.002" y1="2.001" x2="16.362" x1="13.504" stroke-width="2px" stroke-linejoin="round" stroke-linecap="round" stroke="#F5F5F5" fill="none"/>
+  <line id="svg_4" y2="7.002" y1="2.11" x2="10.002" x1="7.207" stroke-width="2px" stroke-linejoin="round" stroke-linecap="round" stroke="#F5F5F5" fill="none"/>
+ </g>
+</svg>
